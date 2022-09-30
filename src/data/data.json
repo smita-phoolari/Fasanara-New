@@ -1,0 +1,82 @@
+{
+    "Header": {
+      "brand": "Fasanara Capital",
+      "title": "Quant Fintech Investment Company",
+      "paragraph": "Fasanara Capital is an independent, owner-managed alternative asset management company authorized and regulated by the Financial Conduct Authority. Co-founded by Francesco Filia in 2011, Fasanara is based in London with alliance offices in Milan."
+    },
+    "Contact": {
+      "address": "4321 California St, San Francisco, CA 12345 ",
+      "phone": "+1 123 456 1234",
+      "email": "info@company.com",
+      "facebook": "fb.com",
+      "twitter": "twitter.com",
+      "youtube": "youtube.com"
+    },
+    "Funds": [
+      {
+        "icon": "https://static.wixstatic.com/media/2bcfa3_da68a6686eaf4865a6a35798dcf9cfdb~mv2.png/v1/crop/x_0,y_143,w_1191,h_721/fill/w_318,h_180,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Artboard%201_2x.png",
+        "title": "Fasanara Fintech",
+        "text1": "Alternative Credit",
+        "text2": " Digital Lending",
+        "link": "https://www.fasanara.com/digitallending"
+      
+      },
+      {
+        "icon": "https://static.wixstatic.com/media/2bcfa3_da68a6686eaf4865a6a35798dcf9cfdb~mv2.png/v1/crop/x_0,y_143,w_1191,h_721/fill/w_318,h_180,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Artboard%201_2x.png",
+        "title": "Fasanara Quant",
+        "text1": "Quant Network. Liquid ",
+        "text2": "Assets Trading",
+        "link": "https://www.fasanara.com/quant"
+
+      },
+      {
+        "icon": "https://static.wixstatic.com/media/2bcfa3_da68a6686eaf4865a6a35798dcf9cfdb~mv2.png/v1/crop/x_0,y_143,w_1191,h_721/fill/w_318,h_180,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Artboard%201_2x.png",
+        "title": "Fasanara Digital",
+        "text1": "Digital Assets",
+        "text2": "Arbitrage",
+        "link": "https://www.fasanara.com/digital"
+      },
+      {
+        "icon": "https://static.wixstatic.com/media/2bcfa3_da68a6686eaf4865a6a35798dcf9cfdb~mv2.png/v1/crop/x_0,y_143,w_1191,h_721/fill/w_318,h_180,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Artboard%201_2x.png",
+        "title": "Fasanara Ventures",
+        "text1": "New Technologies",
+        "text2": "Co-Investments",
+        "link": "https://www.fasanara.com/ventures"
+      }
+        
+    ],
+    "Podcasts": [
+      {
+        "title": "Jul22. The N@ked Short Club",
+        "smallImage": "https://static.wixstatic.com/media/834e5b_01694831d55f46d5925fb1948808fde4~mv2.gif",
+        "alink": "https://www.fasanara.com/resonance"
+      },
+      {
+        "title": "Feb22. The Curious Learners",
+        "smallImage": "https://static.wixstatic.com/media/834e5b_81c8102f9c55446687a80df03caaeda6~mv2.gif",
+        "alink": "https://www.fasanara.com/the-curious-learners-tradfi-defi"
+      },
+      {
+        "title": "Dec21. MacroVoices",
+        "smallImage": "https://static.wixstatic.com/media/834e5b_9923cf5b2c9a4ad6b47cc1cd514d32eb~mv2.gif",
+        "alink": "https://www.fasanara.com/macrovoices-dec"
+      },
+      {
+        "title": "Nov21. The Curious Learners",
+        "smallImage": "https://static.wixstatic.com/media/834e5b_1f02c2a97b35410aaf416fb715740303~mv2.gif",
+        "alink": "https://www.fasanara.com/the-curious-learners"
+        
+      },
+      {
+        "title": "Nov21. Resonance FM",
+        "smallImage": "https://static.wixstatic.com/media/834e5b_b7a96105ebf34b10b07ec3d59173cb02~mv2.gif",
+        "alink": "https://www.fasanara.com/resonance-nov"
+       
+      },
+      {
+        "title": "Oct21. The Alternative Data Podcast",
+        "smallImage": "https://static.wixstatic.com/media/834e5b_b817383a356d4b50a79cc6f8dd6535be~mv2.gif",
+        "alink": "https://www.fasanara.com/alt-data-podcast"
+      }
+    ]
+  }
